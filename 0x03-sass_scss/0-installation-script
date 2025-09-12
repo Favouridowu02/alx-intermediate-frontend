@@ -1,0 +1,12 @@
+# To install SaSS - Syntactically Awesome Style Sheets created by Natalie Weizenbaum and designed by Hampton Catlin
+
+1. Ensure you have npm installed (node version 20.16)
+`curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash`
+
+2. type `exit` on your terminal then press enter
+
+3. Install Sass by using this command if you have node installed
+`npm install sass -v 3.7.4`
+
+
+--
